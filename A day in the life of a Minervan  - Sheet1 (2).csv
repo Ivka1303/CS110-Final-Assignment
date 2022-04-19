@@ -21,7 +21,7 @@ Dinner,25,13,,TRUE,"""N""
 CS110 PCW,150,13,,FALSE,"""N""
 CS114 PCW,180,13,,FALSE,"""N"""
 Watch Berlinale,135,,1020,FALSE,"""N""
-Book a ticket,20,7,,TRUE,"""N""",,
+Book a ticket,20,7,,TRUE,"""N"""
 Cycle to the cinema,35,22,,FALSE,"""N""
 Change for the movies,25,22,,FALSE,"""N""
 Cycle back,35,21,,FALSE,"""N""
